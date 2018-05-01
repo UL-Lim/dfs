@@ -1,0 +1,75 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+
+
+  .wrap{ width:1510px; margin:auto; position: relative}
+
+  .whitea { background:white; }
+  .whiteb { color:white; }
+
+  #back1{ /*background: url('img/back1_1.jpg'); background-size:100% auto; */ height:724.8px; }
+  #back2{ /*background: url('img/back2_1.jpg'); background-size:100% auto;*/ height:845.1px;}
+  #back3{ /*background: url('img/back3_1.jpg'); background-size:100% auto; */ height:845.1px;}
+  #back4{ /*background: url('img/back4_1.jpg'); background-size:100% auto; */ height:845.1px;}
+  #back5{ /*background: url('img/dark.jpg'); background-size:100% auto; */ height:845.1px;}
+  #back6{ /*background: url('img/back6_1.jpg'); background-size:100% auto; */ height:845.1px;}
+  #back7{ /*background: url('img/back7_1.jpg'); background-size:100% auto; */ height:845.1px;}
+  #back8{ /*background: url('img/back8_1.jpg'); background-size:100% auto; */ height:845.1px;}
+  #back9{ /*background: url('img/back9_1.jpg'); background-size:100% auto; */ height:845.3px;}
+  #back10{ background: url('img/back10_1.jpg'); background-size:100% auto; height:845.1px;}
+
+  h1,h2,h3,p { font-family: "Noto Sans KR",sans-serif; font-weight:600}
+
+  h1{ position:absolute; font-size:56px;font-weight: 800;}
+  h2{ position:absolute; font-size:36px;}
+  h3{ font-size:36px; position: absolute; line-height: 52px; font-weight: bold}
+  p{ font-size:14px; position: absolute; line-height: 28px; }
+
+
+  p{ font-size:14px; position: absolute; line-height: 28px; }
+  h3{font-weight: bold;}
+
+  header h1{top:485px;left:863px;}
+  header h2{top:570px;left:863px;}
+
+  #H1{position: absolute; top:250px;left:175px;font-weight:bold;}
+  #H2{position: absolute; top:340px;left:219px;font-weight:bold;}
+
+
+  #contents1 #h1{ top:463px; left:350px; }
+  #contents1 #p1{ top:368px; left:580px; text-align : right;}
+  #contents2 #h2{ top:340px; left:395px; }
+  #contents2 #p2{ top:145px; left:230px; text-align : right;}
+  #contents2 #p3{ top:670px; left:960px; }
+  #contents3 #h3{ top:20px; left:458px; }
+  #contents3 #p4{ top:117px; left:242px; text-align : right;}
+  #contents3 #p5{ top:117px; left:584px; }
+  #contents3 #p6{ top:117px; left:960px; }
+  #contents4 #h4{ top:308px; left:277px; color : white;}
+  #contents4 #p7{ top:337px; left:582px; }
+  #contents5 #h5{ top:160px; left:1145px; }
+#contents5 #p8{ top:229px; left:270px; /*width:357px;*/}
+  #contents6 #h6{ top:310px; left:275px; }
+#contents6 #p9{ top:100px; left:605px; /*width:362px;*/}
+  #contents7 #h7{ top:225px; left:1022px; }
+#contents7 #p10{ top:237px; left:473px; /*width:362px;*/}
+  #contents8 #h8{ top:606px; left:275px; text-align : right;}
+#contents8 #p11{ top:247px; left:473px;/* width:362px;*/}
+
+  #p13{position:absolute; top:626px; left:95px; }
+
+  #imgX{position:fixed; width:400px; height:250px; top:30px; left:50px}
+  #imgX2{position:absolute; width:395px; height:auto; top:4140px; left:814px}
+  #imgX3{position:fixed; width:600px; height:auto; top:210px; left:250px}
+  #imgX4{position:fixed; width:250px; height:auto; top:120px; left:1130px}
+  #imgX5{position:fixed; width:350px; height:auto; top:230px; left:960px}
+
+  #img1{position:absolute; width:1150px; height:auto; top:155px; left:-7.5px;}
+  #img2{position:absolute; width:943px; height:auto; top:722px; left:568.5px}
+  #img3{position:absolute; width:1318px; height:auto; top:1053px; left:193.5px}
+  #img4{position:absolute; width:1510px; height:auto; top:2675px; left:0px}
+  #img5{position:absolute; width:1315px; height:auto; top:3265px; left:194px}
+  #img6{position:absolute; width:1050px; height:auto; top:3535px; left:237px}
+  #img7{position:absolute; width:433px; height:auto; top:4275px; left:570px}
+  #img8{position:absolute; width:1050px; height:auto; top:5230px; left:197px}
+
+  #imgb{position:absolute; width:1510px; height:auto; top:0px; left:-5px}
